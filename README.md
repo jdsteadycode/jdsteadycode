@@ -1,19 +1,24 @@
-- 👋 Hi there! Myself Jeet aka. @jdsteadycode
+# 👋 Hi there! I'm Jeet, aka @jdsteadycode
+
 ### 👨‍💻 About Me
-- I’m an aspiring JavaScript developer currently pursuing my MCA at CHARUSAT. I'm on a journey to learn frontend-Web-Developer, focusing on HTML, CSS, and JavaScript.
+I’m an aspiring JavaScript developer currently pursuing my MCA at CHARUSAT. I'm on a journey to learn Frontend Web Development, focusing on HTML, CSS, and JavaScript.
+
 ### 🚀 Currently Learning
 - JavaScript fundamentals
-- HTML & CSS i.e., only more towards its useful concepts
+- HTML & CSS, focusing on useful concepts
 - Exploring various libraries and frameworks (like React.js) in the future
+
 ### 📚 Projects
 I’ve worked on several projects to apply what I’ve learned, including:
 - A Simple Calculator
-- A Rock-Paper-Scissor
-- A Currency Convertor
-- Soon I'd be dropping it's repositories
+- A Rock-Paper-Scissors Game
+- A Currency Converter
+- Soon, I’ll be adding their repositories here!
+
 ### 💬 Connect with Me
 Feel free to reach out or collaborate on projects! You can find me on:
-- https://github.com/jdsteadycode
+- [GitHub](https://github.com/jdsteadycode)
+
   
 <!---
 jdsteadycode/jdsteadycode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

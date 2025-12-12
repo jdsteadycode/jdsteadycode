@@ -6,7 +6,8 @@ I’m an aspiring JavaScript developer currently pursuing my MCA at CHARUSAT. I'
 ### 🚀 Currently Learning
 - JavaScript fundamentals
 - HTML & CSS, focusing on useful concepts
-- Exploring various libraries and frameworks (like React.js) in the future
+- PHP fundamentals
+- Exploring various libraries and frameworks (like React.js, Laravel) in the future
 
 ### 📚 Projects
 I’ve worked on several projects to apply what I’ve learned, including:

@@ -13,7 +13,7 @@ I’ve worked on several projects to apply what I’ve learned, including:
 - A Simple Calculator
 - A Rock-Paper-Scissors Game
 - A Currency Converter
-- Soon, I’ll be adding their repositories here!
+- Opinix - Simple and Minimal Poll based Site
 
 ### 💬 Connect with Me
 Feel free to reach out or collaborate on projects! You can find me on:

@@ -13,8 +13,8 @@ I’m an aspiring JavaScript developer currently pursuing my MCA at CHARUSAT. I'
 I’ve worked on several projects to apply what I’ve learned, including:
 - A Simple Calculator
 - A Rock-Paper-Scissors Game
-- A Currency Converter
 - Opinix - Simple and Minimal Poll based Site
+- Stylekart (New) - Online Fashion Store 
 
 ### 💬 Connect with Me
 Feel free to reach out or collaborate on projects! You can find me on:

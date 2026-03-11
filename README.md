@@ -1,11 +1,9 @@
 # 👋 Hi there! I'm Jeet, aka @jdsteadycode
 
 ### 👨‍💻 About Me
-I’m an aspiring JavaScript developer currently pursuing my MCA at CHARUSAT. I'm on a journey to learn Frontend Web Development, focusing on HTML, CSS, and JavaScript.
+I’m an aspiring JavaScript developer currently pursuing my MCA at CHARUSAT, And on a journey to push myself to be a better System Engineer.  
 
 ### 🚀 Currently Learning
-- JavaScript fundamentals
-- HTML & CSS, focusing on useful concepts
 - PHP fundamentals
 - Exploring various libraries and frameworks (like React.js, Laravel) in the future
 
